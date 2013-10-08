@@ -114,8 +114,6 @@
 		27F4FEED1803C520008BD5E0 /* CardGame */ = {
 			isa = PBXGroup;
 			children = (
-				27F4FEF61803C520008BD5E0 /* AppDelegate.h */,
-				27F4FEF71803C520008BD5E0 /* AppDelegate.m */,
 				27F4FEF91803C520008BD5E0 /* Main_iPhone.storyboard */,
 				27F4FEFC1803C520008BD5E0 /* Main_iPad.storyboard */,
 				27F4FEFF1803C520008BD5E0 /* ViewController.h */,
@@ -129,6 +127,8 @@
 		27F4FEEE1803C520008BD5E0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				27F4FEF61803C520008BD5E0 /* AppDelegate.h */,
+				27F4FEF71803C520008BD5E0 /* AppDelegate.m */,
 				27F4FEEF1803C520008BD5E0 /* CardGame-Info.plist */,
 				27F4FEF01803C520008BD5E0 /* InfoPlist.strings */,
 				27F4FEF31803C520008BD5E0 /* main.m */,
